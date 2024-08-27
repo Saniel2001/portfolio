@@ -4,10 +4,10 @@ import { resumeFileName } from '@/lib/utils/config'
 export const heroSection: HeroSectionType = {
     subtitle: 'Hi, my name is',
     title: 'Saniel Bhattarai.',
-    tagline: 'I create visually pleasing interfaces for the web.',
+    tagline: 'I craft secure, visually compelling web experiences.',
     description:
-    "I'm a passionate Front-End web developer having an experience of web applications with React.js & Next.js with TypeScript & TailwindCSS and UI/UX designing.",
-    specialText: 'Currently available for a job & freelance',
+    "With expertise in React.js, Next.js, TypeScript, TailwindCSS, and a strong focus on cybersecurity, I blend development and security to build robust, user-friendly applications.",
+    specialText: 'Currently available for a job.',
     cta: {
         title: 'see my resume',
         url: `/${resumeFileName}`,

@@ -6,7 +6,7 @@ export const skillsSection: SkillsSectionType = {
     skills: [
     {
         id: getId(),
-        title: 'full stack development',
+        title: 'Web Development with integration of cyber security',
         // animation lottie file: https://lottiefiles.com/
         lottie: {
         light: '/lotties/frontend.json',
@@ -33,7 +33,7 @@ export const skillsSection: SkillsSectionType = {
         { name: 'nextjs', icon: 'logos:nextjs-icon' },
           // { name: 'angularjs', icon: 'logos:angular-icon' },
         { name: 'tailwindcss', icon: 'logos:tailwindcss-icon' },
-        { name: 'redux', icon: 'logos:redux' },
+        // { name: 'redux', icon: 'logos:redux' },
         { name: 'database', icon: 'vscode-icons:file-type-sql' },
         { name: 'jest', icon: 'vscode-icons:file-type-jest' },
         ],

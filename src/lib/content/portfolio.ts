@@ -7,33 +7,31 @@
 import { StringKeyValueType } from '../types';
 
 export const socialLinks: StringKeyValueType = {
-  facebook: 'https://www.facebook.com/vatsalsinghkv',
-  instagram: 'https://www.instagram.com/vatsalsinghkv',
-  twitter: 'https://twitter.com/vatsalsinghkv',
-  github: 'https://github.com/vatsalsinghkv',
-  linkedin: 'https://www.linkedin.com/in/vatsalsinghkv/',
+  instagram: 'https://www.instagram.com/sanielbhattarai7',
+  github: 'https://github.com/Saniel2001',
+  linkedin: 'https://www.linkedin.com/in/saniel-bhattarai-86533a28b/',
 };
 
 export const author = {
   name: 'Saniel Bhattarai',
-  email: 'vatsalsinghkv@gmail.com',
+  email: 'sanielbhattarai1@gmail.com',
 };
 
 export const seoData = {
-  title: 'Saniel Bhattarai | Front-End Developer',
+  title: 'Saniel Bhattarai | Web Developer and Security Engineer',
   description:
-    'Saniel Bhattarai is a front-end developer who specializes in building (and occasionally designing) exceptional visual interfaces.',
+    'Saniel Bhattarai. Web Developer and Security Engineer crafting secure, visually compelling web experiences. With expertise in React.js, Next.js, TypeScript, TailwindCSS, and a strong focus on cybersecurity, I blend development and security to build robust, user-friendly applications.',
   author: author.name,
   image:
-    'https://user-images.githubusercontent.com/68834718/217467445-0b0d2d63-f8ad-4702-8474-814eb2cbb3be.png',
-  url: 'https://vatsalsinghkv.vercel.app/',
+    'https://raw.githubusercontent.com/Saniel2001/portfolio/main/public/banner.png',
+  url: 'https://SanielBhattarai.vercel.app/',
   keywords: [
-    'Vatsal',
+    'Saniel',
     'Saniel Bhattarai',
-    '@vatsalsinghkv',
-    'vatsalsinghkv',
+    '@sanielbhattarai1',
+    'sanielbhattarai',
     'Portfolio',
-    'Vatsal Portfolio ',
+    'Saniels Portfolio ',
     'Saniel Bhattarai Portfolio',
   ],
 };

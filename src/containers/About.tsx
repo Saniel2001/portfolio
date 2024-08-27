@@ -31,16 +31,16 @@ const About = () => {
             Fast-forward to today, and I’ve had the privilege of working at a
             start-up -{' '}
             <Link
-              href="https://www.pixelwand.live/"
+              href="https://codequant.io/"
               target="_blank"
               className="text-accent"
             >
-              Pixelwand
+              Code Quant Tech
             </Link>
             .
           </p>
           <p>
-            My main focus these days is learning mobile development and finding
+            My main focus these days is learning Cyber Security and finding
             a decent job.
           </p>
 
